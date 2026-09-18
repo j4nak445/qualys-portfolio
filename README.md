@@ -175,11 +175,6 @@ This portfolio is for educational and professional purposes. Qualys VMDR certifi
 
 ---
 
-### 📧 Contact
-- **Email:** janakbhati0145@gmail.com
-- **LinkedIn:** [Add your profile URL]
-- **GitHub:** [Add your portfolio URL]
-
 ---
 
 *Qualys and the Qualys logo are registered trademarks of Qualys, Inc. This certification portfolio is maintained by the credential holder.*
